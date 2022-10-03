@@ -1,5 +1,5 @@
 # 👋 Welcome to my profile 
-I'm Tommy, a UK based web developer currently employed at [Aspenify](https://www.aspenify.com/)!
+I'm Tommy, a UK based web developer currently employed at [Aspenify](https://www.aspenify.com/) 😎 
 
 ## Current stuff
 TBA
