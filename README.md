@@ -28,7 +28,7 @@ I'm **Tommy** _(he/him)_ - a UK based **front-end** web developer currently empl
 -  -->
 
 ## Connect with me ✉️
-I love like to get involved with the tech community. You can find me here:
+I love to get involved with the tech community. You can find me here:
 - [LinkedIn](https://www.linkedin.com/in/tommymapp/)
 - [Twitter](https://twitter.com/thetommymapp)
 - [Email](tommy.mapp@hotmail.com)
