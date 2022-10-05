@@ -28,10 +28,12 @@ I'm **Tommy** _(he/him)_ - a UK based **front-end** web developer currently empl
 -  -->
 
 ## Connect with me ✉️
-I **_really_** like to get involved with the tech community. You can find me here:
+I love like to get involved with the tech community. You can find me here:
 - [LinkedIn](https://www.linkedin.com/in/tommymapp/)
 - [Twitter](https://twitter.com/thetommymapp)
 - [Email](tommy.mapp@hotmail.com)
+
+And you follow me here on GitHub!
 
 ## Fun facts 🎈
 - I used to be a competitive Rocket League player, and have achieved a top 10 rank on their leaderboards.
