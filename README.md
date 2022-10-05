@@ -19,6 +19,8 @@ I'm **Tommy** _(he/him)_ - a UK based **front-end** web developer currently empl
 | HTML          | NodeJS        |         | GitHub           | VSCode        |          | Webpack      | 
 | CSS           | Express       |         | GitLab           | Windows       |          | Firebase     |
 | C#            | Mono          |         |                  | Visual Studio |          | Unity        |
+|               | Bootstrap     |         |                  |               |          |              |
+|               | SCSS          |         |                  |               |          |              |
 
 <!-- Other stuff to add: 
 - mongoose
