@@ -3,13 +3,13 @@ I'm **Tommy** _(he/him)_ - a UK based **front-end** web developer currently empl
 
 ## Stuff I'm working on ⌨️
 - Creating a [Twitter Clone](https://github.com/arkii1/twitter-app)
-- Redesigning my portfolio site in Figma <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" height=16 bottom="0"/>
-- Cleaning up my github profile and previous projects <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height=20 />
+- Redesigning my portfolio site in Figma
+- Cleaning up my github profile and previous projects
 
 ## Stuff I'm learning 📚
-- All the cool stuff you can do with **Firebase** <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" height=16 />
+- All the cool stuff you can do with **Firebase** 
 - Improving my knowledge of **backend** in the MERN stack
-- React's **Context API** <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height=16/>
+- React's **Context API**
 
 ## Technologies  💻
 
