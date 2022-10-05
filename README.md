@@ -20,6 +20,11 @@ I'm **Tommy** _(he/him)_ - a UK based **front-end** web developer currently empl
 | CSS           | Express       | GitLab           | Windows       |          |              |
 | C#            | Mono          |                  | Visual Studio |          |              |
 
+<!-- Other stuff to add: 
+- mongoose
+- C++? Python? Jupyter Notebook? Matlab? RStudio?
+-  -->
+
 ## Connect with me
 I **_really_** like to get involved with the tech community. You can find me here:
 - [LinkedIn](https://www.linkedin.com/in/tommymapp/)
