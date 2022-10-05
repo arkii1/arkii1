@@ -13,12 +13,12 @@ I'm **Tommy** _(he/him)_ - a UK based **front-end** web developer currently empl
 
 ## Technologies
 
-| Languages     | Frameworks    |  Version Control | Environment   | Database |
-| ------------- | ------------- | ---------------- | ------------- | -------- |
-| JavaScript    | React         | Git              | Ubunutu       | Mongodb  |
-| HTML          | NodeJS        | GitHub           | VSCode        |          |
-| CSS           | Express       | GitLab           | Windows       |          |
-| C#            | Mono          |                  | Visual Studio |          |
+| Languages     | Frameworks    |  Version Control | Environment   | Database | Game Engines |
+| ------------- | ------------- | ---------------- | ------------- | -------- | ------------ |
+| JavaScript    | React         | Git              | Ubunutu       | Mongodb  | Unity        |
+| HTML          | NodeJS        | GitHub           | VSCode        |          | Unreal       | 
+| CSS           | Express       | GitLab           | Windows       |          |              |
+| C#            | Mono          |                  | Visual Studio |          |              |
 
 ## Connect with me
 I **_really_** like to get involved with the tech community. You can find me here:
