@@ -13,12 +13,12 @@ I'm **Tommy** _(he/him)_ - a UK based **front-end** web developer currently empl
 
 ## Technologies  💻
 
-| Languages     | Frameworks    |  Version Control | Environment   | Database | Game Engines |
-| ------------- | ------------- | ---------------- | ------------- | -------- | ------------ |
-| JavaScript    | React         | Git              | Ubunutu       | Mongodb  | Unity        |
-| HTML          | NodeJS        | GitHub           | VSCode        |          | Unreal       | 
-| CSS           | Express       | GitLab           | Windows       |          |              |
-| C#            | Mono          |                  | Visual Studio |          |              |
+| Languages     | Frameworks    | Testing |  Version Control | Environment   | Database |  Other       |
+| ------------- | ------------- | ------- | ---------------- | ------------- | -------- | ------------ |
+| JavaScript    | React         | Jest    | Git              | Ubunutu       | Mongodb  | npm          |
+| HTML          | NodeJS        |         | GitHub           | VSCode        |          | Webpack      | 
+| CSS           | Express       |         | GitLab           | Windows       |          | Unity        |
+| C#            | Mono          |         |                  | Visual Studio |          | Unreal       |
 
 <!-- Other stuff to add: 
 - mongoose
