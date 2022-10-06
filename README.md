@@ -1,5 +1,5 @@
 # Hi, welcome to my profile 👋
-I'm **Tommy** _(he/him)_ - a UK based **front-end** web developer currently employed at [Aspenify](https://www.aspenify.com/)! 🚀
+I'm **Tommy** _(he/him)_ - a UK based web developer currently employed at [Aspenify](https://www.aspenify.com/)! 🚀
 
 ## Stuff I'm working on ⌨️
 - Creating a [Twitter Clone](https://github.com/arkii1/twitter-app)
@@ -28,12 +28,12 @@ I'm **Tommy** _(he/him)_ - a UK based **front-end** web developer currently empl
 -  -->
 
 ## Connect with me ✉️
-I love to get involved with the tech community. You can find me here:
+I love to get involved with the tech community! You can find me here:
 - [LinkedIn](https://www.linkedin.com/in/tommymapp/)
 - [Twitter](https://twitter.com/thetommymapp)
 - [Email](tommy.mapp@hotmail.com)
 
-And you follow me here on GitHub!
+And you can follow me here on GitHub!
 
 ## Fun facts 🎈
 - I used to be a competitive Rocket League player, and have achieved a top 10 rank on their leaderboards.
