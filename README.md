@@ -1,5 +1,5 @@
 # Hi, welcome to my profile 👋
-I'm **Tommy** _(he/him)_ - a UK based web developer currently employed at [Aspenify](https://www.aspenify.com/)! 🚀
+I'm **Tommy** (he/him) - a UK based web developer currently employed at [Aspenify](https://www.aspenify.com/)! 🚀
 
 ## Stuff I'm working on ⌨️
 - Creating a [Twitter Clone](https://github.com/arkii1/twitter-app)
