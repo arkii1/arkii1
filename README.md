@@ -13,14 +13,14 @@ I'm **Tommy** _(he/him)_ - a UK based web developer currently employed at [Aspen
 
 ## Technologies  💻
 
-| Languages     | Frameworks    | Testing |  Version Control | Environment   | Database |  Other       |
-| ------------- | ------------- | ------- | ---------------- | ------------- | -------- | ------------ |
-| JavaScript    | React         | Jest    | Git              | Ubunutu       | Mongodb  | npm          |
-| HTML          | NodeJS        |         | GitHub           | VSCode        |          | Webpack      | 
-| CSS           | Express       |         | GitLab           | Windows       |          | Firebase     |
-| C#            | Mono          |         |                  | Visual Studio |          | Unity        |
-|               | Bootstrap     |         |                  |               |          |              |
-|               | SCSS          |         |                  |               |          |              |
+| Languages     | Frameworks    | Testing |  Version Control | Environment   | Database             |  Other       |
+| ------------- | ------------- | ------- | ---------------- | ------------- | -------------------- | ------------ |
+| JavaScript    | React         | Jest    | Git              | Ubunutu       | Mongodb              | npm          |
+| HTML          | NodeJS        |         | GitHub           | VSCode        | FireStore (Firebase) | Webpack      | 
+| CSS           | Express       |         | GitLab           | Windows       |                      | Firebase     |
+| C#            | Mono          |         |                  | Visual Studio |                      | Unity        |
+|               | Bootstrap     |         |                  |               |                      |              |
+|               | SCSS          |         |                  |               |                      |              |
 
 <!-- Other stuff to add: 
 - mongoose
