@@ -1,15 +1,12 @@
 # Hi, welcome to my profile 👋
-I'm **Tommy** (he/him) - a UK based web developer currently employed at [Aspenify](https://www.aspenify.com/)! 🚀
+I'm **Tommy** (he/him) - a UK based software developer currently employed at [Durell](https://www.durell.co.uk/)! 🚀
 
 ## Stuff I'm working on ⌨️
-- Creating a [Twitter Clone](https://github.com/arkii1/twitter-app)
-- Redesigning my portfolio site in Figma
-- Cleaning up my github profile and previous projects
+- Setting up my [website!](https://www.tommymapp.co.uk)
 
 ## Stuff I'm learning 📚
-- All the cool stuff you can do with **Firebase** 
-- Improving my knowledge of **backend** in the MERN stack
-- React's **Context API**
+- Learning .Net API
+- Expanding my conceptual knowledge on software development
 
 ## Technologies  💻
 
@@ -18,9 +15,7 @@ I'm **Tommy** (he/him) - a UK based web developer currently employed at [Aspenif
 | JavaScript    | React         | Jest    | Git              | Ubunutu       | Mongodb              | npm          |
 | HTML          | NodeJS        |         | GitHub           | VSCode        | FireStore (Firebase) | Webpack      | 
 | CSS           | Express       |         | GitLab           | Windows       |                      | Firebase     |
-| C#            | Mono          |         |                  | Visual Studio |                      | Unity        |
-|               | Bootstrap     |         |                  |               |                      |              |
-|               | SCSS          |         |                  |               |                      |              |
+| C#            | .Net          |         |                  | Visual Studio |                      | Unity        |
 
 <!-- Other stuff to add: 
 - mongoose
@@ -39,7 +34,6 @@ And you can follow me here on GitHub!
 - I used to be a competitive Rocket League player, and have achieved a top 10 rank on their leaderboards.
 - I like to create video games, although with my current focus on web development I'm not doing that too much right now.
 - I'm self-taught, using [The Odin Project](https://www.theodinproject.com/about) as my primary resource. I'm often in their discord helping new students.
-- I graduated from the University Of Brighton with a First in Mathematics.
 <!--
 **arkii1/arkii1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
