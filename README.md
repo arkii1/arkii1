@@ -5,7 +5,7 @@ I'm **Tommy** (he/him) - a UK based software developer currently employed at [Du
 - Setting up my [website!](https://www.tommymapp.co.uk)
 
 ## Stuff I'm learning 📚
-- Learning .Net API
+- Learning .Net
 - Expanding my conceptual knowledge on software development
 
 ## Technologies  💻
